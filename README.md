@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a target = "_blank" href="https://www.linkedin.com/in/leo-mosley-606785222/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
   Twitter
@@ -53,7 +53,6 @@ I am a A-level computer science student <img src="https://media.giphy.com/media/
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
 </p>
----
 ### 🔥 &nbsp; My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leomosley&theme=dark&background=000000)](https://git.io/streak-stats)
 
