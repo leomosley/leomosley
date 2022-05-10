@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img alt="Gif" src="" width="100"/>
+  <img alt="Gif" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" width="100"/>
 </div>
 
 <p align="center">
@@ -9,9 +9,7 @@
   Twitter
 </p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ### &nbsp;About Me:
 
