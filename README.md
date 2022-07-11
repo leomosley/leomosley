@@ -38,5 +38,6 @@ I am a A-level computer science student from the UK.
 ---
 
 ### 🔥 &nbsp;My Stats:
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leomosley&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomosley&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomosley&layout=compact&theme=dracula)](https://github.com/leomosley)
