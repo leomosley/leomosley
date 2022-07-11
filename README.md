@@ -4,7 +4,7 @@
 
 ### &nbsp;About Me:
 
-I am a A-level computer science student from the UK. I enjoy developing high quality web applications using javascript frameworks. I mainly develop using a online IDE called Replit (My profile can be found [here](https://replit.com/@leomosley).    
+I am a A-level computer science student from the UK. I enjoy developing high quality web applications using javascript frameworks. I mainly develop using an online IDE called Replit (My profile can be found [here](https://replit.com/@leomosley)).    
 
 ---
 
