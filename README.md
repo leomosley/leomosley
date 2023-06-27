@@ -1,7 +1,5 @@
 # 👨🏻‍💻Leo Mosley 
 
-**`A Level Student`**
-
 About me...
 
    <p align="left">
