@@ -1,5 +1,4 @@
-### Hi there 👋
-### My Portfolio: [leomosley.com](https://www.leomosley.com/)
+### [leomosley.com](https://www.leomosley.com/)
 
 <!--
 - 🔭 I’m currently working on ...
