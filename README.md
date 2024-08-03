@@ -1,1 +1,1 @@
- ### 📌 [<samp>leomosley.com</samp>](https://www.leomosley.com/)
+ ### 📌 [<samp>mosly.dev</samp>](https://mosly.dev/)
